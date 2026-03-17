@@ -15,7 +15,7 @@ su - root
 
 ## Capture the Flag
 cat flag.txt
-
+![Linux commands screenshot](screenshots/Linux%20commands.jpg)
 Flag:
 THM{YouGotRoot}
 
