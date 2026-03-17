@@ -25,5 +25,10 @@ I am building hands-on experience in cybersecurity, focusing on:
 |-----|------|------|
 | Linux Fundamentals | Linux basics | Completed |
 
+| Room | Topic | Status |
+|------|------|------|
+| Linux Fundamentals | Linux basics | Completed |
+| Enumeration Basics | Reconnaissance | Completed |
+
 ## Goal
 Develop practical cybersecurity skills and document the learning process while progressing toward penetration testing and security analysis roles.
